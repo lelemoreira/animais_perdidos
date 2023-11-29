@@ -1,0 +1,18 @@
+body {
+  background-color:rgb(31, 29, 26);
+  background-size: cover;
+  background-image: url('./images/imagemfundo.png');
+}
+
+.app {
+  margin: 300px;  
+  width: 1000px;
+  margin: 15 auto;
+  text-align: center;
+  margin-top: 100px;
+  background-color: rgba(99, 43, 21, 0.788);
+  border-radius: 50px;
+  height: 350px;
+}
+
+
